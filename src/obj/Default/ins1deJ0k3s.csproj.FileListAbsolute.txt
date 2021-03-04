@@ -1,0 +1,12 @@
+C:\Users\lufas\Desktop\TotallyNotInsideJokes\src\obj\Default\ins1deJ0k3s.csprojAssemblyReference.cache
+C:\Users\lufas\Desktop\TotallyNotInsideJokes\src\obj\Default\ins1deJ0k3s.csproj.CoreCompileInputs.cache
+C:\Users\lufas\Desktop\Tarkov Hack\src\obj\Default\ins1deJ0k3s.csprojAssemblyReference.cache
+C:\Users\lufas\Desktop\Tarkov Hack\src\obj\Default\ins1deJ0k3s.csproj.CoreCompileInputs.cache
+G:\Tarkov Hack\src\obj\Default\ins1deJ0k3s.csproj.CoreCompileInputs.cache
+G:\Tarkov Hack\src\obj\Default\ins1deJ0k3s.csproj.CopyComplete
+G:\Tarkov Hack\src\obj\Default\ins1deJ0k3s.csprojAssemblyReference.cache
+G:\Tarkov Hack\bin\Dll\‮pogpoggiepogga.dll.config
+G:\Tarkov Hack\bin\Dll\‮pogpoggiepogga.dll
+G:\Tarkov Hack\bin\Dll\‮pogpoggiepogga.pdb
+G:\Tarkov Hack\src\obj\Default\‮pogpoggiepogga.dll
+G:\Tarkov Hack\src\obj\Default\‮pogpoggiepogga.pdb
